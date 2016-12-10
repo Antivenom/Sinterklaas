@@ -1,2 +1,4 @@
 # Sinterklaas
-A small website for the dutch event called Sinterklaas I made for my sister.
+Een website die ik gemaakt heb voor mijn zusje omdat ik haar had voor surprise.
+
+Deze website is gemaakt door alleen HTML/CSS/Javascript
